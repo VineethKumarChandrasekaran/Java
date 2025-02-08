@@ -1,4 +1,4 @@
-package com.tekpyramid.assignment;
+package com.tekpyramid.assignment.stringprogram;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
